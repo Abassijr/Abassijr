@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abassijr
-- 👀 I’m interested in web developement 
+- 👀 I’m interested in web developement and programming 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ; emmanuelsakala45@gmail.com
